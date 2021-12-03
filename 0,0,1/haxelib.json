@@ -1,0 +1,11 @@
+{
+	"name": "ralseitools",
+	"url" : "https://github.com/Zoardedz/ralsei-tools",
+	"license": "MIT",
+	"tags": ["game", "openfl", "flash", "html5", "neko", "cpp", "android", "ios", "cross"],
+	"description": "Tools made by the Ralsei engine team.",
+	"version": "4.10.0",
+	"releasenote": "Testin",
+	"contributors": ["Zoardedz"],
+	"dependencies": {}
+}
