@@ -4,15 +4,17 @@
 	<haxelib name="openfl" unless="create" />
 	<haxelib name="hscript" unless="create || coverage2" optional="true" />
 	
+	<assets path="assets/images" rename="ralseidevelop/img" embed="true" />
+	<assets path="assets/fonts" rename="ralseidevelop/fonts" embed="true"/>
 
 	<section if="setup">
 		<haxelib name="hscript" />
 		<haxelib name="systools" />
+		<haxelib name="flixel"/>
 		<haxelib name="flixel-addons" />
 		<haxelib name="flixel-ui" />
 		<haxelib name="flixel-demos" />
 		<haxelib name="flixel-tools" />
 		<haxelib name="flixel-templates" />
 	</section>
-	
 </project>
